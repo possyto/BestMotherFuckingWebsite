@@ -1,0 +1,76 @@
+/* body */
+
+#blocpage{
+	width: 67%;
+	margin:auto;
+	background-color: #FEFEFE;
+	color: #454545;
+	font-size: 115%;
+	padding-top: 50px;
+}
+#pixel{
+	font-size: 17px;
+	bef()
+}
+#pixel1{
+	font-size: 11px;
+
+}
+/*h1*/
+#titre{
+	margin-bottom: 8px;
+}
+#really{
+	margin-top: 1px;
+}
+/*image logo */
+
+img.logo
+{
+	
+
+}
+
+
+/* div images cat */
+
+.bloccat{
+	text-align: justify;
+	height: 270px;
+	line-height: 30px;
+
+
+
+}
+.image{
+	float: left;
+	overflow: hidden;
+	margin-right: 10px;
+}
+.text{
+	
+}
+.smallcat{
+	font-size: 15px
+
+}
+.cattext{
+	float:left;
+	width: 60%;
+	
+}
+/* gooddesigne */
+
+.gooddesign{
+	margin-left: 40px;
+}
+
+/*logo kopimi */
+#logokopimi img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 45px;
+
+}
+
